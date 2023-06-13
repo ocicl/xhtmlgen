@@ -1,0 +1,10 @@
+* xhtmlgen
+
+XHTML generation macros, derivative of Franz Inc.'s net.htmlgen
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/hanshuebner/xhtmlgen   |
+| commit  | 5e96735  |
+| systems | xhtmlgen |
+|---------+-------------------------------------------|
+
